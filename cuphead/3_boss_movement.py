@@ -101,18 +101,8 @@ while running:
             if event.key == pygame.K_LEFT or event.key == pygame.K_RIGHT:
                 character_to_x = 0
                 boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
             elif event.key == pygame.K_UP or event.key == pygame.K_DOWN:
                 character_to_y = 0
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
-                boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
                 boss_weapons.append([boss_weapon_x_pos, boss_weapon_y_pos])
 
 
